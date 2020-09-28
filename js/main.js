@@ -143,7 +143,7 @@ $(document).ready(function() {
     let sbagliato5 = risul4 + 0;
     window.open('../right-wrong/wrong5.html?q5=' + sbagliato5, '_self');
   });
-
+ 
   //--Question 6
   var flag01 = 0;
   var flag02 = 0;
